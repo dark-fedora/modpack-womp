@@ -1,2 +1,2 @@
 git pull
-pause
+sleep 5
